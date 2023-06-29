@@ -53,8 +53,3 @@ Avant d'exécuter le code, assurez-vous d'avoir les éléments suivants :
 
 - Ce code est fourni à titre d'exemple et peut être étendu ou modifié selon vos besoins.
 
-## Auteurs
-
-Ce code a été développé par [Votre nom] dans le cadre d'un exemple de nettoyage de données.
-
-N'hésitez pas à ajouter ou à modifier les sections du fichier README en fonction de vos besoins spécifiques. Assurez-vous de fournir des instructions claires sur la façon d'utiliser le code et d'inclure toutes les dépendances nécessaires.
