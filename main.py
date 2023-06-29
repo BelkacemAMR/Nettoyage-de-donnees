@@ -1,3 +1,5 @@
+# Exemple Simple en python de la phase de netoyage de données dans le cadre d'une analyse de données:
+
 import pandas as pd
 import numpy as np
 
